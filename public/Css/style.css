@@ -142,9 +142,6 @@ a:visited,a:link{
   color: rgba(2, 2, 54, 0.788);
   text-align: center;
 }
-a:hover.abar{
-  color:yellow;
-}
 a:hover.anotbar{
   color:whitesmoke;
 }
